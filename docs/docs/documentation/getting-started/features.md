@@ -84,7 +84,27 @@ The meal planner has the concept of plan rules. These offer a flexible way to us
 
 The shopping lists feature is a great way to keep track of what you need to buy for your next meal. You can add items directly to the shopping list or link a recipe and all of it's ingredients to track meals during the week.
 
+Managing shopping lists can be done from the Sidebar > Shopping Lists. 
 
+Here you will be able to:
+- See list of already added items to the Shopping List
+- See linked recipes with ingredients
+    - Toggling via the 'Pot' icon will show you the linked recipe, allowing you to click to access it. 
+- Check off an item
+- Add / Change / Remove / Sort Items via the '3x3' grid icon
+    - Be sure if you are modifying an ingredient to click the 'Save' icon.
+- Add / Change / Remove / Sort Labels
+    - 'No Label' will always be on the top, others can be Reordered via the 'Reorder Labels' button
+
+!!! tip
+    If you accidently checked off an item, you can uncheck it by expanding 'items checked' and unchecking it. This will automatically add it back to the Shopping List.
+    
+!!! tip
+    Along with Smart Handling, you can toggle 'Food' on individual items so that if you add multiple of the same food / ingredient, Mealie will automatically combine them together. Do this by editing an item in the Shopping List and clicking the 'apple' icon. If you added "1 | cup | cheese" and "2 | cup | cheese" this would be combined to show "3 cups of cheese" Please note this cannot be undone once items are combined. 
+
+!!! tip
+    You can use Labels to categorize your ingredients. You may want to Label by Food Type (Frozen, Fresh, etc), by Store, Tool, Recipe, or more. Play around with this to see what works best for you.
+    
 [Shopping List Demo](https://demo.mealie.io/shopping-lists){ .md-button .md-button--primary }
 
 ## Integrations
