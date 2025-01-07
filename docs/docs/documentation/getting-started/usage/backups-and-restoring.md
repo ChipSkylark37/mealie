@@ -26,12 +26,11 @@ Before importing it's critical that you understand the following:
 - This action cannot be undone
 - If this action is successful you will be logged out and you will need to log back in to complete the restore
 
-!!! warning
-    Prior to beta-v5 using a mis-matched version of the database backup will result in an error that will prevent you from using the instance of Mealie requiring you to remove all data and reinstall. Post beta-v5 performing a mismatched restore will throw an error and alert the user of the issue.
-
 !!! tip
     If for some reason the restore does not succeed, you can review the logs of what the issue may be, download the backup .ZIP and edit the contents of database.json to potentially resolve the issue. For example, if you receive an error restoring 'shopping-list' you can edit out the contents of that list while allowing other sections to restore. If you would like any assistance on this, reach out over Discord.
 
+!!! warning
+    Prior to beta-v5 using a mis-matched version of the database backup will result in an error that will prevent you from using the instance of Mealie requiring you to remove all data and reinstall. Post beta-v5 performing a mismatched restore will throw an error and alert the user of the issue.
 
 ### Postgres Note
 
