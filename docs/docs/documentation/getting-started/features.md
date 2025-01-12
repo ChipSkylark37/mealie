@@ -87,7 +87,7 @@ The shopping lists feature is a great way to keep track of what you need to buy 
 Managing shopping lists can be done from the Sidebar > Shopping Lists. 
 
 Here you will be able to:
-- See list of already added items to the Shopping List
+- See items already on the Shopping List
 - See linked recipes with ingredients
     - Toggling via the 'Pot' icon will show you the linked recipe, allowing you to click to access it. 
 - Check off an item
