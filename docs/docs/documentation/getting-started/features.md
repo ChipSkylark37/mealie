@@ -97,7 +97,7 @@ Here you will be able to:
     - 'No Label' will always be on the top, others can be Reordered via the 'Reorder Labels' button
 
 !!! tip
-    If you accidently checked off an item, you can uncheck it by expanding 'items checked' and unchecking it. This will automatically add it back to the Shopping List.
+    If you accidentally checked off an item, you can uncheck it by expanding 'items checked' and unchecking it. This will add it back to the Shopping List.
     
 !!! tip
     Along with Smart Handling, you can toggle 'Food' on individual items so that if you add multiple of the same food / ingredient, Mealie will automatically combine them together. Do this by editing an item in the Shopping List and clicking the 'apple' icon. If you added "1 | cup | cheese" and "2 | cup | cheese" this would be combined to show "3 cups of cheese" Please note this cannot be undone once items are combined. 
