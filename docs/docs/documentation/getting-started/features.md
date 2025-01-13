@@ -92,7 +92,7 @@ Here you will be able to:
 - See linked recipes with ingredients
     - Toggling via the 'Pot' icon will show you the linked recipe, allowing you to click to access it. 
 - Check off an item
-- Add / Change / Remove / Sort Items via the grid icon (![image](https://github.com/user-attachments/assets/ad59a5ea-2ee5-4c6c-9002-9312f018290f))
+- Add / Change / Remove / Sort Items via the grid icon
     - Be sure if you are modifying an ingredient to click the 'Save' icon.
 - Add / Change / Remove / Sort Labels
     - 'No Label' will always be on the top, others can be Reordered via the 'Reorder Labels' button
@@ -104,7 +104,7 @@ Here you will be able to:
     You can use Labels to categorize your ingredients. You may want to Label by Food Type (Frozen, Fresh, etc), by Store, Tool, Recipe, or more. Play around with this to see what works best for you.
     
 !!! tip
-   You can toggle 'Food' on items so that if you add multiple of the same food / ingredient, Mealie will automatically combine them together. Do this by editing an item in the Shopping List and clicking the 'apple' icon (![image](https://github.com/user-attachments/assets/0925c88b-77aa-4446-8539-2ee436243e15)). If you then have recipes that contain "1 | cup | cheese" and "2 | cup | cheese" this would be combined to show "3 cups of cheese."
+    You can toggle 'Food' on items so that if you add multiple of the same food / ingredient, Mealie will automatically combine them together. Do this by editing an item in the Shopping List and clicking the 'Apple' icon. If you then have recipes that contain "1 | cup | cheese" and "2 | cup | cheese" this would be combined to show "3 cups of cheese."
 
 [See FAQ for more information](../getting-started/faq.md)
 
