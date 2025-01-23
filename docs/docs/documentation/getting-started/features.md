@@ -62,7 +62,6 @@ Mealie also has the concept of cookbooks. These can be created inside of a group
 - Main Courses: This cookbooks has all the recipes that have the **Dinner** category
 - Pasta Sides: Recipes that have both the **Side** category and the **Pasta** tag
 - Dessert Breads: Recipes that have both the **Bread** category and the **Dessert** tag
-- Make Later: Recipes that have a **Want To Make** tag
 
 [Cookbooks Demo](https://demo.mealie.io/g/home/cookbooks){ .md-button .md-button--primary }
 
